@@ -4,4 +4,4 @@ Adapted from [Google Calendar Redesigned (Dark Mode)](https://userstyles.org/sty
 
 I also use [this](https://addons.mozilla.org/en-US/firefox/addon/hide-morning-in-calendar/) extension to hide early morning hours, which I made dark and invisible in DarkTada.css
 
-Tested in Firefox
+Tested in Firefox using Stylus
